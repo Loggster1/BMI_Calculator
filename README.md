@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Loggster1/BMI">
+  <a href="https://github.com/Loggster1/BMI_Calculator">
     <img src="images/bmi.webp" alt="Logo" width="80" height="80">
   </a>
 
@@ -48,7 +48,7 @@ This is a java program developed to help one find their body mass index. The use
 #### Download the Project
 To get started, you can download the project as a `.zip` file by clicking the code button at the top of the page:
 
-1. Go to the projects <a href="https://github.com/Loggster1/BMI">home page </a>
+1. Go to the projects <a href="https://github.com/Loggster1/BMI_Calculator">home page </a>
 2. Select the green **Code** button at the top right of the page
 3. Select `Download ZIP` at the bottom of the dropdown menu
 
