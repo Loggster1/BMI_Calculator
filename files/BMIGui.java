@@ -1,12 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-
 /**
- *
- * @author Loggster
+ * Logan Wallarab
+ * www.loggster.dev
  */
 public class BMIGui extends javax.swing.JFrame {
 
