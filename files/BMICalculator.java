@@ -1,11 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 /**
- *
- * @author Loggster
+ * Logan Wallarab
+ * www.loggster.dev
  */
 public class BMICalculator{ 
     public static double calculateBMI(double iFeet, double iInches, double dPounds) {
