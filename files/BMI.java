@@ -1,5 +1,5 @@
 /**
- * Logan Wallarab
+ * Loggster1
  * www.loggster.dev
  */
 public class BMI{
